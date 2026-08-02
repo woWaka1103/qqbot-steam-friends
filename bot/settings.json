@@ -1,0 +1,13 @@
+{
+  "steamApiKey": "YOUR_STEAM_API_KEY",
+  "selfId": "YOUR_QQ_BOT_ID",
+  "admins": ["YOUR_ADMIN_QQ"],
+  "steamFriends": ["FRIEND1_STEAM_ID", "FRIEND2_STEAM_ID"],
+  "priorityFriends": ["FRIEND1_QQ", "FRIEND2_QQ"],
+  "broadcastImage": true,
+  "onlineImage": true,
+  "imageQuality": 0.85,
+  "timeout": 10000,
+  "retryCount": 3,
+  "logLevel": "info"
+}

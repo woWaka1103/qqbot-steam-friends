@@ -1,0 +1,26 @@
+{
+  "name": "qqbot-steam",
+  "version": "1.0.0",
+  "description": "Steam QQ机器人 - 在线好友查询与置顶排序功能",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qq",
+    "steam",
+    "bot",
+    "napcat",
+    "nodejs"
+  ],
+  "author": "woWaka1103",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.13.0",
+    "axios": "^1.6.0",
+    "canvas": "^2.11.2",
+    "qrcode": "^1.5.3",
+    "sharp": "^0.32.5"
+  }
+}
